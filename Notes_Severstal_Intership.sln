@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notes_Severstal_Intership", "Notes_Severstal_Intership\Notes_Severstal_Intership.csproj", "{83FE7EF8-D2FA-4CAC-A8E9-CC89F6990817}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83FE7EF8-D2FA-4CAC-A8E9-CC89F6990817}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83FE7EF8-D2FA-4CAC-A8E9-CC89F6990817}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83FE7EF8-D2FA-4CAC-A8E9-CC89F6990817}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83FE7EF8-D2FA-4CAC-A8E9-CC89F6990817}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64BA3294-7401-48E1-8CEB-9E4193B4B529}
+	EndGlobalSection
+EndGlobal
